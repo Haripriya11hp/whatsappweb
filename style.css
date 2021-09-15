@@ -1,0 +1,92 @@
+.back{
+	background-color: #ffffff;
+	height: 100vh;
+}
+
+.back-container{
+	position: relative;
+}
+
+
+.front-container{
+	position:absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+.chat-top{
+	background-color:#8fc997 ;
+	min-height: 50px;
+}
+
+.front-container1{
+position:absolute;
+	top: 20px;
+	left: 0;
+	right: 0;
+
+}
+
+.profile-image{
+	margin-top:7px ;
+	height: 35px;
+	width: 35px;
+
+}
+
+.icon-top{
+	float: right;
+	margin: 2px;
+	margin-top: 10px;
+}
+
+.icon-right{
+	float: right;
+	margin: 2px;
+	margin-top: 10px;
+}
+.name{
+	margin:7px;
+	font-size: 15px;
+	font-weight: bolder;
+	
+}
+.contacts{
+	background-color:#ffffff ;
+	min-height: 600px;
+
+}
+
+.contact-scroll{
+	overflow-y: scroll;
+	overflow-x: hidden;
+	height: 600px;
+	
+}
+
+.message-area{
+	background :url(assets/whatsapp.jpg);
+	min-height: 600px;
+	
+}
+.message-scroll{
+	overflow-y: scroll;
+	overflow-x: hidden;
+	height: 550px;
+}
+
+.message-box{
+	background-color: whitesmoke;
+}
+
+.wa-badge{
+	background-color: #09d261;
+	color: white !important;
+	width: 30px;
+	height: 30px;
+	
+	
+}
+
+
